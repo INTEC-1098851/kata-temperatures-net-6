@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKKqzanwaCzorJWqyj6edctSzbQVpy7IZ+Cmij6ootbzGpszBnWvILLA2DJbsGA7XNeoKh6WPog8Dvm0XSDiHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fsoto\\Desktop\\INTEC\\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\\KataTemperatures\\KataTemperatures\\KataTemperatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsoto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\fsoto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\fsoto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\fsoto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

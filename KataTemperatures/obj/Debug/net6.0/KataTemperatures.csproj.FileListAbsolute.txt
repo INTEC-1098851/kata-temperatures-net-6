@@ -1,0 +1,15 @@
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\bin\Debug\net6.0\KataTemperatures.exe
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\bin\Debug\net6.0\KataTemperatures.deps.json
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\bin\Debug\net6.0\KataTemperatures.runtimeconfig.json
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\bin\Debug\net6.0\KataTemperatures.dll
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\bin\Debug\net6.0\KataTemperatures.pdb
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.csproj.AssemblyReference.cache
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.AssemblyInfoInputs.cache
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.AssemblyInfo.cs
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.csproj.CoreCompileInputs.cache
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.dll
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\refint\KataTemperatures.dll
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.pdb
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\KataTemperatures.genruntimeconfig.cache
+C:\Users\fsoto\Desktop\INTEC\INS368L - LABORATORIO TENDENCIAS EN DESARROLLO DE APLICACIONES\KataTemperatures\KataTemperatures\obj\Debug\net6.0\ref\KataTemperatures.dll
